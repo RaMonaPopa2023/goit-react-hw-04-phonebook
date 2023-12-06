@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RaMonaPopa2023.github.io/goit-react-hw-04-phonebook/",
+  "homepage": "https://ramonapopa2023.github.io/goit-react-hw-04-phonebook/",
   "dependencies": {
     "@babel/runtime": "^7.23.5",
     "@emotion/react": "^11.11.1",
